@@ -11,7 +11,7 @@ Etudiants:
 
 Le raisonnement et le code sont inscrits dans un jupyter notebook.
 
-Nous utilisons simplement le notebook [./main.ipynb](main.ipynb) dans vscode qui le lit nativement.
+Nous utilisons simplement le [notebook](main.ipynb) dans vscode qui le lit nativement.
 
 Pour exécuter le code, il faut au préalable installer R kernel:
 
