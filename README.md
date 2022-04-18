@@ -9,11 +9,11 @@ Etudiants:
 
 ## Lire le projet
 
-Le raisonnement et le code sont inscrits dans un jupyter notebook.
+Le raisonnement et le code sont inscrits dans un jupyter notebook que vscode lit nativement.
 
-Nous utilisons simplement le [notebook](main.ipynb) dans vscode qui le lit nativement.
+Tout est accessible dans [main.ipynb](main.ipynb).
 
-Pour exécuter le code, il faut au préalable installer R kernel:
+Si toutefois vous souhaitez exécuter le notebook sur vscode, il faut au préalable installer R kernel:
 
 - <https://stackoverflow.com/questions/56497422/using-jupyter-r-kernel-with-visual-studio-code>
 
